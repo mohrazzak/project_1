@@ -480,7 +480,7 @@ body {
   display: inline-block;
   padding-right: 20px;
 }
-@media (max-width: 360px) {
+@media (max-width: 380px) {
   .contact .links p {
     display: block;
     padding-right: 0;
